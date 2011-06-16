@@ -1,4 +1,3 @@
-# -*- coding: Latin-1 -*-
 """Graphviz's dot language parser.
 
 The dotparser parses graphviz files in dot and dot files and transforms them
